@@ -2,7 +2,7 @@
 App for tracking your expenses, Context API is used as the state manager
 
 ## Requirements before installation
-* Should have [NodeJs](https://nodejs.org) installed 
+* [NodeJs](https://nodejs.org) should be installed 
 
 ## Installation
 ```
