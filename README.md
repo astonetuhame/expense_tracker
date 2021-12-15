@@ -1,5 +1,5 @@
 # Expense Tracker
-A task tracker app built with React.js, Context API is used as the state manager
+App for tracking your expenses, Context API is used as the state manager
 
 ## Requirements before installation
 * Should have [NodeJs](https://nodejs.org) installed 
